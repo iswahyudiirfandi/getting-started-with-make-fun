@@ -150,4 +150,4 @@ Yes — teams can share the work, but one account submits the entry and receives
 3. Let your agent build, test it, check it, submit it.
 4. Share your own referral link — every real signup through it is a step toward the next prize.
 
-Good luck. Build something real, submit it early, and don't leave the claim to the last day.
+Good luck. Build something real, submit it early, and don't leave the claim to the last day. If you get stuck, re-read the rules — most rejections come from a rule that was skipped, not from a bad idea.
